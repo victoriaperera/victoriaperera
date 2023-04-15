@@ -3,9 +3,6 @@
 I'm Victoria. Welcome to my GitHub profile!
 
 
-## Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
-
 <!--
 **victoriaperera/victoriaperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
