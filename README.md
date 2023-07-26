@@ -1,8 +1,8 @@
 Hi there! 👋
 
-I'm Victoria. Welcome to my GitHub profile!
+I'm Victoria, a full stack developer. Welcome to my GitHub profile!
 
-🌱 I’m currently learning Full Stack development at Hack Academy bootcamp.  
+🌱 I’m currently learning about Cybersecurity at Coderhouse.  
 👯 I’m looking to collaborate on future projects.
 
 <!--
