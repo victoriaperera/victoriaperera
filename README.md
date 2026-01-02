@@ -1,9 +1,7 @@
 Hi there! 👋
 
-I'm Victoria, a full stack developer. Welcome to my GitHub profile!
+I'm Victoria, welcome to my GitHub profile!
 
-🌱 I’m currently learning about Cybersecurity at Coderhouse.  
-👯 I’m looking to collaborate on future projects.
 
 <!--
 
@@ -12,6 +10,15 @@ I'm Victoria, a full stack developer. Welcome to my GitHub profile!
 I'm [Your Name], a [Your Profession] based in [Your Location]. Welcome to my GitHub profile!
 
 ## About Me
+
+Hi there! 👋
+
+I'm Victoria, a full stack developer. Welcome to my GitHub profile!
+
+
+
+🌱 I’m currently learning about Cybersecurity at Coderhouse.  
+👯 I’m looking to collaborate on future projects.
 
 - 🌱 I’m currently learning Full Stack development at Hack Academy
 - 👯 I’m looking to collaborate on future projects.
